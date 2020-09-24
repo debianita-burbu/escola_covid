@@ -5,5 +5,5 @@ Recopilacion de datos, scripts y gráficos sobre la evolución del coronavirus e
 Total de centros docentes en Cataluña 5455
 
 # Fuentes de los datos recopilados
-(Generalitat de Cataluña)[https://tracacovid.akamaized.net/#/]
-En la hoja de calculo existe para cada fila una columna con el link a la correspondiente fuente de los datos
+* [Generalitat de Cataluña](https://tracacovid.akamaized.net/#/)
+* En la hoja de calculo existe para cada fila una columna con el link a la correspondiente fuente de los datos
